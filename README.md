@@ -16,17 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m Full-Stack Developer 
-- 💁‍♂️ Graduated from GSG cohortCareer Accelerator Program 
-- 📫 How to reach me: montherismail90@gmail.com
 
 
 <h1>About Me 📌</h1>
 
+- 🔭 I’m Full-Stack Developer 
+- 📫 How to reach me: montherismail90@gmail.com
 - 🔭 I have +1 years of experince working as a full-stack development
-- 💁‍♂️ Computer Engineering graduate from IUG
 - 🌱 I am a software engineer student in -[University Of Palestine](#)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 
