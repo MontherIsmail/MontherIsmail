@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I have +1 years of experince working as a full-stack development
 - 💁‍♂️ Computer Engineering graduate from IUG
 - 🌱 I am a software engineer student in -[University Of Palestine](#)
-- - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
+- 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 
 
 <br />
