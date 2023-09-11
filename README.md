@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I am a software engineer student in -[University Of Palestine](#)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💁‍♂️ Ex Front end developer -[The Station](#)
+- 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
 - 💁‍♂️ Present Front end developer -[Comma](#)
 
 
