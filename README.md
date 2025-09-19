@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💁‍♂️ Ex Front end developer -[The Station](#)
 - 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
 - 💁‍♂️ Ex Front end developer -[Comma](#)
-- 💁‍♂️ Ex Flutter developer -Accellware LTD](#)
+- 💁‍♂️ Ex Flutter developer -[Accellware LTD](#)
 - 💁‍♂️ Present Front end developer -[allmy.online](#)
 
 
