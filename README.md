@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💁‍♂️ Ex Front end developer -[The Station](#)
 - 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
-- 💁‍♂️ Present Front end developer -[Comma](#)
+- 💁‍♂️ Ex Front end developer -[Comma](#)
+- 💁‍♂️ Ex Flutter developer -Accellware LTD](#)
+- 💁‍♂️ Present Front end developer -[allmy.online](#)
 
 
 <br />
