@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Full-Stack Developer 
 - 📫 How to reach me: montherismail90@gmail.com
 - 🔭 I have 3 years of experince working as a full-stack development
-- 🌱 I am a software engineer student in -[University Of Palestine](#)
+- 🌱 I am a software engineer student from -[University Of Palestine](#)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💁‍♂️ Ex Front end developer -[The Station](#)
 - 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
@@ -79,12 +79,6 @@ Here are some ideas to get you started:
 
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MontherIsmail&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Monther's Languages/Frameworks" width = 400 />
 </p>
-
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/MontherIsmail/count.svg"></img>
-</div>
 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
